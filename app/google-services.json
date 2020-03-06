@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607781389849",
+    "firebase_url": "https://example-72a07.firebaseio.com",
+    "project_id": "example-72a07",
+    "storage_bucket": "example-72a07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607781389849:android:272006e69467a5d7224c88",
+        "android_client_info": {
+          "package_name": "com.example.azieg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607781389849-v3f3n9vnvgeusd8j6kgd6pd1137lr5s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRwsNrsHdPJvgAMgxjWIkgNNq5HUYAvGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607781389849-v3f3n9vnvgeusd8j6kgd6pd1137lr5s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

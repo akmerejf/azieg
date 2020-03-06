@@ -1,0 +1,2 @@
+rootProject.name='Azieg'
+include ':app'
