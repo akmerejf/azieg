@@ -27,7 +27,6 @@ class MainActivity : AppCompatActivity(), DecorListFragment.OnListFragmentIntera
     }
 
     override fun onListFragmentInteraction(item: DecorItem?) {
-//        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
         Toast.makeText(this, "Click", Toast.LENGTH_SHORT).show()
     }
 }
